@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AndreyAstahow
+- 👀 I’m interested in python development
+- 🌱 I’m currently learning how create API
+- 💞️ I’m looking to collaborate with everyone
+- 📫 How to reach me: @wz_up (telegram)
+- ⚡ Fun fact: i bad learning english
